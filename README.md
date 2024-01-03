@@ -14,7 +14,7 @@ the esp32's also expose a wifi accesspoint themselves where you can use a html/j
 
 if you want to interface the esp32 to an existing network you have to piggybag the esp32 with another esp32 that acts as a wifi bridge from your network to the network of the esp32.
 
-
+* use https://github.com/thinger-io/Protoson for message format
 
 * use [zhnetwork](https://github.com/aZholtikov/zh_network) as mesh transport layer
 * ideally everything is a message
