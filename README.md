@@ -16,7 +16,7 @@ if you want to interface the esp32 to an existing network you have to piggybag t
 
 
 
-* use [zhnetwork](https://github.com/aZholtikov/ZHNetwork) as mesh transport layer
+* use [zhnetwork](https://github.com/aZholtikov/zh_network) as mesh transport layer
 * ideally everything is a message
   * messages can have tags signifying their type
   * messages have titles, if a message has a tag=="file" then the title is the "filename" including ending
